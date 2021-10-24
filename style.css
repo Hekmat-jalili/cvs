@@ -1,0 +1,159 @@
+a {
+    text-decoration: none;
+    color: white;
+    font-family: Arial, Helvetica, serif;
+}
+
+/* Mouse Hover on links that changes the default values */
+
+a:hover {
+    text-shadow: 20px;
+}
+
+
+
+#unorderedlist {
+    text-decoration: none;
+
+    float: right;
+    margin-right: 100px;
+}
+
+#header {
+    background-image: url("works/1.jpg");
+    width: 100%;
+    height: 1020px;
+
+}
+
+/* idea container */
+
+#ideaContainer {
+    margin-left: 20%;
+    height: 600px;
+
+}
+
+/* welcome ideas */
+
+
+.links {
+    display: inline;
+    margin-left: 20px;
+    color: white;
+}
+
+/* col-sm-3 */
+
+.col-sm-3 {
+    margin-top: 40px;
+}
+
+.container-fluid {
+    background: black;
+    color: white;
+    width: 100%;
+    height: auot;
+    font-size: 27px;
+
+}
+
+/* hekmat com margin */
+
+.hekmat-com {
+    margin-left: 20%;
+}
+
+#services {
+    background-color: orange;
+    margin-top: -30px;
+
+}
+
+#serviceColor {
+    margin-top: 30px;
+    font-weight: bold;
+    font-size: 39px;
+}
+
+
+ul {
+    text-decoration: none;
+}
+
+li {
+    display: inline;
+    margin-left: 20px;
+}
+
+.works {
+    margin-left: 40px;
+    margin-top: 40px;
+}
+
+.photos {
+    width: 200px;
+}
+
+#ourblogs {
+    margin-top: 190px;
+}
+
+#work {
+    margin-top: 190px;
+}
+
+#margins-works {
+    margin-top: 30px;
+}
+
+#buttons-margins {
+    margin-top: 40px;
+}
+
+
+.btn {
+    width: 20%;
+}
+
+#touch {
+
+    width: 100%;
+    background-color: teal;
+    margin-top: 190px;
+
+}
+
+input[type="text"] {
+    width: 500px;
+    height: 60%;
+    margin-top: 30px;
+}
+
+#getTouch {
+    padding: 40px;
+    margint-top: 50px;
+}
+
+#top {
+    margin-top: 190px;
+    margin-bottom: 190px;
+}
+
+
+p {
+    font-weight: bold;
+}
+
+#contact {
+
+
+    width: 100%;
+    height: 300px;
+    background-color: black;
+
+}
+
+.firstimage {
+    margin-top: 100px;
+}
